@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1400502413 source:c:\users\david\desktop\universidad\2o cuatri\proii\proyectos\pr_8_1\main.cpp
+	<iostream>
+	<string>
+	<list>
+	<math.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1397829762 source:c:\users\david\desktop\universidad\2o cuatri\proii\proyectos\pr_6_1\main.cpp
+	<cstdlib>
+	<string>
+	<iostream>
+	<stdexcept>
+	<exception>
+

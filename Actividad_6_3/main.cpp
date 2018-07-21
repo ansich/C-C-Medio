@@ -1,0 +1,3 @@
+ostringstream cnvt;
+
+cnvt <<

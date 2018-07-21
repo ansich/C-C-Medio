@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1400600963 source:c:\users\david\desktop\universidad\2o cuatri\proii\proyectos\pr_it_2\main.cpp
+	<iostream>
+	<list>
+	<cstdlib>
+
